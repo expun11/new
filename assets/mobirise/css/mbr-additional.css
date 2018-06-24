@@ -2763,17 +2763,19 @@ body {
 .cid-qVSx3fh7Lu .mbr-text LI {
   color: #7f1933;
 }
-.cid-qVSzvk1uI7 {
+.cid-qVSErqxz7K {
   padding-top: 15px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-qVSzvk1uI7 .mbr-text,
-.cid-qVSzvk1uI7 blockquote {
+.cid-qVSErqxz7K .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qVSzvk1uI7 .mbr-text {
-  color: #232323;
+.cid-qVSErqxz7K .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qVSErqxz7K H2 {
+  text-align: center;
 }
 .cid-qVSyEdawVh {
   padding-top: 90px;
